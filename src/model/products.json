@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "uzum",
+        "price": 10000,
+        "branchId": 1
+    },
+    {
+        "id": 2,
+        "title": "anor",
+        "price": 12000,
+        "branchId": 2
+    },
+    {
+        "id": 3,
+        "title": "kivi",
+        "price": 100,
+        "branchId": 3
+    },
+    {
+        "id": 4,
+        "title": "ananas",
+        "price": 111,
+        "branchId": 4
+    }
+]

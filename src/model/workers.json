@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Eshmat",
+      "salary": "110 000",
+      "branchId": 1
+    },
+    {
+      "id": 2,
+      "name": "Sheraka",
+      "salary": "120 000",
+      "branchId": 1
+    },
+    {
+      "id": 3,
+      "name": "Bobur",
+      "salary": "130 000",
+      "branchId": 2
+    },
+    {
+      "id": 4,
+      "name": "Rustam",
+      "salary": "140 000",
+      "branchId": 3
+    }
+]
